@@ -242,7 +242,7 @@ Based on the analysis, businesses can reduce churn by:
 ### ***Dashboard Preview***
 
 
-
+![Dashboard Preview](dashboard_preview.png)
 
 
 
@@ -278,4 +278,5 @@ Customer churn analysis is essential for subscription-based businesses to mainta
 
 
 This project demonstrates how data analysis and visualization can uncover valuable insights that help organizations improve customer retention strategies and decision-making.
+
 
